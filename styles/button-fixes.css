@@ -1,0 +1,11 @@
+
+/* Service card specific fixes */
+.serviceCard {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+}
+
+.serviceCard:hover {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+}
